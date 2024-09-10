@@ -1,0 +1,30 @@
+header{
+    padding: 30px;
+    text-align: center;
+    background-color: #1abc9c;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+article{
+    margin: 0;
+    padding: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgray;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: 3px;
+    background-color: #1abc9c;
+    color: white;
+}
+
+.year{
+    color: blue;
+}
